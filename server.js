@@ -42,7 +42,7 @@ var content={
             This is the content for my first article</p>`
  
 };
-function creatTtemplate(data) {
+function createTtemplate(data) {
     var title=data.title;
     var date=data.date;
     var heading=data.heading;
